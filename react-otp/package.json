@@ -2,10 +2,11 @@
   "name": "react-otp",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://bharath.fr/reactotp",
+  "homepage": "http://bharath.fr/reactotp",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "axios": "^0.18.0",
+    "otp-client": "^1.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-id-generator": "^0.1.6",
