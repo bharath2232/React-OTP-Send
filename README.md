@@ -9,7 +9,7 @@ One top password verification code app made with react.js and textlocal.com api(
 * If you enter the invalid code  you will get Invalid OTP Error
 * if you did not get the OTP check the console log, You will see the OTP and the Json response from the Textlocal api Sms provider
  
-![alt text](http://labs.bharath.fr/reactotp.gif)
+![alt text](https://labs.bharath.fr/reactotp.gif)
 
 
 
